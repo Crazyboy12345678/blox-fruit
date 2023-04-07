@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/SHAREHACK/allscript/main/level'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Crazyboy12345678/blox-fruit/main/free'))()
